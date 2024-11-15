@@ -1,5 +1,7 @@
 # Things you can do with uv
 
+Full docs [here](https://docs.astral.sh/uv/).
+
 ## Basic
 
 1. Create a virtual environment
